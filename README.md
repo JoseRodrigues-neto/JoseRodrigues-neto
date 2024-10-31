@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRodrigues&show_icons=true&theme=radical)
+![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRodrigues-neto&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRodrigues-neto)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JoseRodrigues-neto/JoseRodrigues-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
