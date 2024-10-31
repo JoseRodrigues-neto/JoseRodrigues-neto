@@ -1,19 +1,11 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to My GitHub Profile
+
 ![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRodrigues-neto&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRodrigues-neto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRodrigues-neto)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**JoseRodrigues-neto/JoseRodrigues-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **JoseRodrigues-neto/JoseRodrigues-neto** é um repositório ✨ _especial_ ✨ porque README.md(este arquivo) aparece no seu perfil do GitHub. Aqui estão algumas ideias para você começar: - 🔭 Atualmente estou trabalhando em ... - 🌱 Atualmente estou aprendendo ... - 👯 Estou procurando colaborar em ... - 🤔 Estou procurando ajuda com ... - 💬 Pergunte-me sobre ... - 📫 Como entrar em contato comigo: ... - 😄 Pronomes: ... - ⚡ Curiosidade: ... -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contato
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserodrigues15ne@gmail.com)
+ 
